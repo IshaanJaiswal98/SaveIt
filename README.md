@@ -1,6 +1,9 @@
 # SaveIt
 A password manager that works offline, keeps your user name and password safe along with the location where you used it. Also has a built in password generator that generates a strong password for you.
 
+Click on SaveIt.exe to launch the application.
+(Create a shortcut if you want)
+
 Steps to use the password manager.
 1. Add the name of the website you are saving the password for.
 2. Type the username correctly you desire to use.
